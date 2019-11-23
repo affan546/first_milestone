@@ -1,5 +1,5 @@
  html {
-  scroll-behavior: smooth;
+  scroll-behaviour: smooth;
 }
 *{
    padding:0;
@@ -10,7 +10,7 @@
     background-image:url(/first_milestone/images/cover.jpg);
 	height:80vh;
 	background-size:cover;
-	background-position:center;
+	background-position:top-center;
  }
  .navbar-nav li a{
 	float:right;
