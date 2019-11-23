@@ -1,6 +1,6 @@
 # First_milestone Project (GYM)
 
-One or two paragraphs providing an overview of your project.
+This is the Gym website project from first milestone of code institute where users can view the website and subscribe for the services and also they can view what other members have experience at this gym .There are social media link where new members can view the latest reviews about the gym services .
 
 Essentially, this part is your sales pitch.
  
