@@ -2,8 +2,8 @@
 
 This is the my first milestone project for code institute for gym website .In this project ,I have displayed the best user experience with their views about the gym services .The website highlights the user views about the services as well.The website contains the responsive scaling behaviour for the best user experience .
 
-##Demo
-A live demo can be found [here](https://www.haleyschafer.com/).
+## Demo
+A live demo can be found [here](https://affan546.github.io/first_milestone/).
  
 ## UX
  
