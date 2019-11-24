@@ -1,8 +1,9 @@
 # First_milestone Project (GYM)
 
-This is the Gym website project from first milestone of code institute where users can view the website and subscribe for the services and also they can view what other members have experience at this gym .There are social media link where new members can view the latest reviews about the gym services .
+This is the my first milestone project for code institute for gym website .In this project ,I have displayed the best user experience with their views about the gym services .The website highlights the user views about the services as well.The website contains the responsive scaling behaviour for the best user experience .
 
-The page is responsive and tested on all platform like browser,iphone and android and it works absolutely fine .IT displays current users reviews about their views about the gym services and you can even contact the gym management for the queries
+##Demo
+A live demo can be found [here](https://www.haleyschafer.com/).
  
 ## UX
  
