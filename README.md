@@ -8,13 +8,16 @@ A live demo can be found [here](https://affan546.github.io/first_milestone/).
 ## UX
 
 ## Strategy
+
 My goal in the design was to make it as easy as possible to access information on the site while striving for a minimalist and user-friendly design.
 
 ## User Stories
+
 As an employer I expect to see Affan's Show case of work .
 As a recruiter I expect to see a showcase of Affan's resume.
 
 ## Scope
+
 For employers, I wanted to provide them with a brief overview of myself and my capabilities. This way, they would be able to get a glimpse of who I am, my background, work I've done, and my skills, with the option to contact me if they choose.
 
 
