@@ -18,33 +18,25 @@ As a recruiter I expect to see a showcase of Affan's resume.
 
 ## Scope
 
-For employers, I wanted to provide them with a brief overview of myself and my capabilities. This way, they would be able to get a glimpse of who I am, my background, work I've done, and my skills, with the option to contact me if they choose.
+For new visitors on the website i have added the testimonial section from the current members which will give the new members a better idea of what offers they can get from the super gym and what other current members are getting at the moment .By this way they can gain trust in the gym and will surely try to sign up for the gym membership.
 
 ## Structure
 
-In the 'Work/Travail' section, I wanted them to be able to quickly access work that I've done, providing a short summary of the project and main technologies with a link to each GitHub Repository and live demo. I have tried to make it easy as possible.
+In the Welcome to super gym section,I wanted the users to get warm welcome from the gym management and get a quick over view of the gym Services,Afterwards there are some motivation quotations been added just to boost the morale of the members to strive and work hard to get fit .I have done , providing a short summary of the project and main technologies with a link to Github Repository and a live demo .I have tried to make it easy as possible.
 
 ## Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
- 
-### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
+This site uses Bootstrap for smoother functionality and i have tried to make it very smooth for scrolling with scrolling css property.The navbar is also responsive Regardless of the screen size it will remain on the top-right corner and will drop the menus on the bottom with auto-adjustment depending on the platform whether mobile version,tablet or browser view .
 
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+## Technologies
+1. HTML
+2. CSS
+3. Bootstrap 4.3.1
 
 ### Features Left to Implement
 - Another feature idea
 
-## Technologies Used
 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
-
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
 
 
 ## Testing
