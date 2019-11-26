@@ -34,10 +34,8 @@ This site uses Bootstrap for smoother functionality and i have tried to make it 
 3. Bootstrap 4.3.1
 
 ### Features Left to Implement
-- Another feature idea
 
-
-
+In the future, I would like to add further functionalities in this website to make it more user friendly like to display some extra coaching classes like for spinning classes or some nutrition plans as well. I would like to add some videos that display might help users to get some online trainning session for free as well.
 
 ## Testing
 
