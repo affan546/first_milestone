@@ -1,17 +1,24 @@
-# Your Project's Name
+# First_milestone Project (GYM)
 
-One or two paragraphs providing an overview of your project.
+This is the my first milestone project for code institute for gym website .In this project ,I have displayed the best user experience with their views about the gym services .The website highlights the user views about the services as well.The website contains the responsive scaling behaviour for the best user experience .
 
-Essentially, this part is your sales pitch.
+## Demo
+A live demo can be found [here](https://affan546.github.io/first_milestone/).
  
 ## UX
- 
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-- As a user type, I want to perform an action, so that I can achieve a goal.
+## Strategy
 
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+My goal in the design was to make it as easy as possible to access information on the site while striving for a minimalist and user-friendly design.
+
+## User Stories
+
+As an employer I expect to see Affan's Show case of work .
+As a recruiter I expect to see a showcase of Affan's resume.
+
+## Scope
+
+For employers, I wanted to provide them with a brief overview of myself and my capabilities. This way, they would be able to get a glimpse of who I am, my background, work I've done, and my skills, with the option to contact me if they choose.
 
 ## Features
 
