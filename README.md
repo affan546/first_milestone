@@ -38,8 +38,9 @@ This site uses Bootstrap for smoother functionality and i have tried to make it 
 In the future, I would like to add further functionalities in this website to make it more user friendly like to display some extra coaching classes like for spinning classes or some nutrition plans as well. I would like to add some videos that display might help users to get some online trainning session for free as well.
 
 ## Testing
+The testimonials  user story achieved the intended outcome of providing them with a showcase of gym services  and my work. In the about us section, they can read a bit about the gym background and brief about what gym is really about and what users can expect from the gym.and if they're viewing on a desktop, the background of this section is a beside a photo of a girl showing her doing running. You can see the users twitter response for the gym services along just beneath you can view a sample video of a man doing exercise . I have added a section of Mixed martial arts,boxing and Gym section that displays what trainning session this gym is providing to users. Then there is a section for certified trainer section where it tells about the gym staff qualification that they are highly qualified .
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+
 
 Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
 
