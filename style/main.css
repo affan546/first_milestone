@@ -96,8 +96,7 @@
 	background-size:cover;
 	background-attachment:fixed;
 	color:#fff;
-	resize:horizontal;
-	overflow:auto;
+	
 }
 #features col-md-6{
 	padding:20px;	
