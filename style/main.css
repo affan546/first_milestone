@@ -1,5 +1,5 @@
- html {
-  scroll-behaviour: smooth;
+ html{
+  scroll-behavriour: smooth;
 }
 *{
    padding:0;
@@ -14,7 +14,7 @@
  }
  .navbar-nav li a{
 	float:right;
-    color:#fff !important;	
+    color:#fff 	
  }
  .navbar-brand img{
 	width:120px;
