@@ -8,6 +8,7 @@ A live demo can be found [here](https://affan546.github.io/first_milestone/).
 ## UX
 
 ## Strategy
+<<<<<<< HEAD
 
 My goal in the design was to make it as easy as possible to access information on the site while striving for a minimalist and user-friendly design.
 
@@ -19,33 +20,41 @@ As a recruiter I expect to see a showcase of Affan's resume.
 ## Scope
 
 For employers, I wanted to provide them with a brief overview of myself and my capabilities. This way, they would be able to get a glimpse of who I am, my background, work I've done, and my skills, with the option to contact me if they choose.
+=======
+
+My goal in the design was to make it as easy as possible to access information on the site while striving for a minimalist and user-friendly design.
+>>>>>>> 2afdc61fb88f60d0d778771051072fd4560e82be
+
+## User Stories
+
+As an employer I expect to see Affan's Show case of work .
+As a recruiter I expect to see a showcase of Affan's resume.
+
+## Scope
+
+For new visitors on the website i have added the testimonial section from the current members which will give the new members a better idea of what offers they can get from the super gym and what other current members are getting at the moment .By this way they can gain trust in the gym and will surely try to sign up for the gym membership.
+
+## Structure
+
+In the Welcome to super gym section,I wanted the users to get warm welcome from the gym management and get a quick over view of the gym Services,Afterwards there are some motivation quotations been added just to boost the morale of the members to strive and work hard to get fit .I have done , providing a short summary of the project and main technologies with a link to Github Repository and a live demo .I have tried to make it easy as possible.
 
 ## Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
- 
-### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
+This site uses Bootstrap for smoother functionality and i have tried to make it very smooth for scrolling with scrolling css property.The navbar is also responsive Regardless of the screen size it will remain on the top-right corner and will drop the menus on the bottom with auto-adjustment depending on the platform whether mobile version,tablet or browser view .
 
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+## Technologies
+1. HTML
+2. CSS
+3. Bootstrap 4.3.1
 
 ### Features Left to Implement
-- Another feature idea
 
-## Technologies Used
-
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
-
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
-
+In the future, I would like to add further functionalities in this website to make it more user friendly like to display some extra coaching classes like for spinning classes or some nutrition plans as well. I would like to add some videos that display might help users to get some online trainning session for free as well.
 
 ## Testing
+The testimonials  user story achieved the intended outcome of providing them with a showcase of gym services  and my work. In the about us section, they can read a bit about the gym background and brief about what gym is really about and what users can expect from the gym.and if they're viewing on a desktop, the background of this section is a beside a photo of a girl showing her doing running. You can see the users twitter response for the gym services along just beneath you can view a sample video of a man doing exercise . I have added a section of Mixed martial arts,boxing and Gym section that displays what trainning session this gym is providing to users. Then there is a section for certified trainer section where it tells about the gym staff qualification that they are highly qualified .
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+
 
 Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
 
