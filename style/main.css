@@ -1,8 +1,5 @@
-/*if the screen size is 600px wide or less,hide*/
-@media only screen and (max-width:600px){
- html{
-  scroll-behavriour: smooth;
-}
+html{
+  scroll-behaviour: smooth;
 }
 *{
    padding:0;
@@ -32,14 +29,24 @@
 	font-size:26px;
  }
  /*------------Welcome Text---------*/
+ /*Adding the screen size width to 600px*/
+@media screen and (min-width: 600px) {
  .welcome{
 	padding:30px 60px;
+	font-size:15px;
 	margin-top:-140px;
 	resize:horizontal;
 	overflow:auto;
 	background-color:#fff;
 	box-shadow:0 0 20px 7px rgba(0,0,0,0.2);
  }
+}
+@media screen and (max-width: 600px) {
+  .welcome {
+    font-size: 20px;
+  }
+}
+
  .welcome h1{
 	color:#333;
 	
