@@ -244,6 +244,7 @@ html{
 .subscribe .input-group-append{
 	background-image:linear-gradient(to right , #1c03b5 , #5c8bef);
 	border-radius:30px;
+	
 }
 .subscribe .input-group-text{
 	background:transparent;
@@ -253,6 +254,7 @@ html{
 .subscribe .btn:focus{
 	box-shadow:none;
 }
+
 /*-----------------Footer---------*/
 #footer{
 	margin-top:80px;
