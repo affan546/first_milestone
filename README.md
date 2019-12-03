@@ -69,7 +69,7 @@ To run locally, you can clone this repository directly into the editor of your c
 ### Content
 The main concept of this project was taken from the video from YouTube [Link]( https://www.youtube.com/watch?v=4bPABX-jOko)
 
-Most of the content was taken from their few changes were made in the project by me like changes in navigation bar and background rgba attribute in the css was done by me. The modal form of subscription in the welcome page was taken from bootstrap website. The Super Gym icon was taken from the google images library .There is a video in the website that tells of transformation that was taken from [Link][ https://www.youtube.com/watch?v=-k5_GP25-bw].In the testimonials there are three images one is mine and other is of my brother who has given the consent of posting his picture and other is of my best I have the consent of both people.
+Most of the content was taken from their few changes were made in the project by me like changes in navigation bar and background rgba attribute in the css was done by me. The modal form of subscription in the welcome page was taken from bootstrap website. The Super Gym icon was taken from the google images library .There is a video in the website that tells of transformation that was taken from [Link]( https://www.youtube.com/watch?v=-k5_GP25-bw).In the testimonials there are three images one is mine and other is of my brother who has given the consent of posting his picture and other is of my best I have the consent of both people.
 
 ### Media
 
