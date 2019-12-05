@@ -1,4 +1,4 @@
-# Super Gym Website
+﻿# Super Gym Website
 
 The project is about the gym website .In which the visitors can see the current members views and the facilities available at the gym right now. The website has a responsive menu on the top-right corner of the website .The website has a welcome introductory note on the very first page on the top where its clearly mentioned about location or other information as well.
 
@@ -33,9 +33,9 @@ Main Page
 
 ## Technologies
 
-1. HTML
-2. CSS
-3. Bootstrap(4.3.1)
+1. [HTML]( https://en.wikipedia.org/wiki/HTML5)
+2. [CSS]( https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+3. [BOOTSTRAP]( https://getbootstrap.com/docs/4.3/getting-started/download/)
 
 ## Features
 
