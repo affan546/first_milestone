@@ -1,5 +1,5 @@
-html{
-  scroll-behaviour: smooth;
+html {
+  scroll-behavior: smooth;
 }
 *{
    padding:0;
@@ -217,8 +217,7 @@ html{
 	position:relative;
 	box-shadow:0 0 20px 7px(0,0,0,0.2);
 	margin-bottom:-160px;
-	resize:horizontal;
-	overflow:auto;
+	
 }
 .subscribe h3, .subscribe p{
 	color:#fff;
@@ -226,19 +225,24 @@ html{
 }
 .subscribe .input-group{
 	border-radius:30px;
-	background:#fff;
+	background:#0a0a0a;
 	max-width:500px;
 	margin:10px auto;
 	padding:5px;
 	
 }
 .subscribe .form-control{
-	border:none;
+	
 	background:transparent;
+	color:#0a0a0a;
+}
+.form-control{
+	background:#0a0a0a;
+	text-align:center;
 }
 .subscribe .form-control:focus{
 	box-shadow:none;
-	background:transparent;
+	background:#0a0a0a;
 }
 .subscribe .input-group-append{
 	background-image:linear-gradient(to right , #1c03b5 , #5c8bef);
@@ -246,9 +250,9 @@ html{
 	
 }
 .subscribe .input-group-text{
-	background:transparent;
+	/*background:transparent;*/
 	border:none;
-	color:#fff;
+	
 }
 .subscribe .btn:focus{
 	box-shadow:none;
