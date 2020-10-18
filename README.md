@@ -6,7 +6,7 @@ So, basically this website is for those who are looking for better and good qual
 
 ## Demo
 
-A live Demo can be found here  [Link]( https://affan546.github.io/first_milestone)
+A live Demo can be found here  [Link]( https://affan546.github.io/Gym_Website/)
 
 ## UX
 
